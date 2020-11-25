@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../JPEG-LS.srcs/sources_1/new/encoder_ans.sv"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

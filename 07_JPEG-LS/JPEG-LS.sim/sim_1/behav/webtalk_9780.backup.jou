@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Nov 20 23:33:08 2020
+# Process ID: 9780
+# Current directory: C:/Users/Dawid/Desktop/JPEG-LS/JPEG-LS.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/Dawid/Desktop/JPEG-LS/JPEG-LS.sim/sim_1/behav/xsim.dir/encoder_ans_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Dawid/Desktop/JPEG-LS/JPEG-LS.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/Dawid/Desktop/JPEG-LS/JPEG-LS.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Dawid/Desktop/JPEG-LS/JPEG-LS.sim/sim_1/behav/xsim.dir/encoder_ans_behav/webtalk/xsim_webtalk.tcl -notrace
